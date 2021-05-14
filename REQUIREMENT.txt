@@ -1,0 +1,11 @@
+*******************************************************************************************
+Welcone in Shadow tools.....
+
+Req:-
+Cpp compiler installed
+OS (Window,Mac,Linux,etc)
+
+******************************************************************
+In case Cpp compiler not installed then go for the (phonebook.exe)/
+
+Phonebook.v.1
